@@ -1,0 +1,6 @@
+# Cursor version files
+cursor-*
+
+# SSH keys
+id_rsa
+id_rsa.pub 
